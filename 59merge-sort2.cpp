@@ -1,4 +1,6 @@
-/*merge sort - j koste bujsi re vai*/
+/*merge sort - j koste bujsi re vai
+bujsi jenney's lecture r abdul bari taki
+code leksi college-wallah taki*/
 
 #include<iostream>
 using namespace std;
